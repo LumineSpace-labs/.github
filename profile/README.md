@@ -13,7 +13,7 @@ At Lumine Space Labs, we believe in the power of collaboration :handshake: and k
 
 Explore our projects and contributions:
 
-- [Project 1](https://github.com/LumineSpace-labs/project1) :arrow_right: coming soon!.
+- Project 1 :arrow_right: https://luminespace.my.id/chatkobi.
 
 
 ## Research and Publications :books:
